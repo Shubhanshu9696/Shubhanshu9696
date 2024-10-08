@@ -1,7 +1,6 @@
 <h1 align=“center”>Hi :wave:, I’m Shubhanshu Tiwari</h1>
 <h3 align=“center”>A passionate Full-stack developer from India</h3>
 <img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
-
 <p align=“left”> <img src="https://komarev.com/ghpvc/?username=shubhanshu9696&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanshu9696" /> </p>
 <p align=“left”> <a href=“https://twitter.com/shubhanshusst10” target=“blank”><img src=“https://img.shields.io/twitter/follow/shubhanshusst10?logo=twitter&style=for-the-badge” alt=“shubhanshusst10" /></a> </p>
 
@@ -36,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhanshu9696&show_icons=true&locale=en" alt="shubhanshu9696" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshu9696&" alt="shubhanshu9696" /></p>
+
