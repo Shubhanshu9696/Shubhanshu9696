@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **AWS, Serverless computing, Next.js, Express.js,**
   
-- :male-technologist: All of my projects are available at [https://shubh-portfolio-4c9456.netlify.app/](https://shubh-portfolio-4c9456.netlify.app/)
-  
-- :speech_bubble: Ask me about **React.js, Next.js, Functional Programming, AWS, Database, DSA**
+- 👨‍💻 All of my projects are available at [https://shubh-portfolio-4c9456.netlify.app/](https://shubh-portfolio-4c9456.netlify.app/)
+
+- 💬 Ask me about **React.js, Next.js, Functional Programming, AWS, Database, DSA**
 
 
 
