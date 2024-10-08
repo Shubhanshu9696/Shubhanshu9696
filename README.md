@@ -4,8 +4,7 @@
 <p align=“left”> <img src="https://komarev.com/ghpvc/?username=shubhanshu9696&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanshu9696" /> </p>
 <p align=“left”> <a href=“https://x.com/shubhanshusst10” target=“blank”><img src=“https://img.shields.io/twitter/follow/shubhanshusst10?logo=twitter&style=for-the-badge” alt=“shubhanshusst10" /></a> </p>
 
-- :seedling: I’m currently working on **Product Lifecycle Management(PLM) **
-<!-- - 🔭 I’m currently working on **Product Lifecycle Management(PLM)** -->
+- 🔭 I’m currently working on **Product Lifecycle Management(PLM)** 
 
 - 🌱 I’m currently learning **AWS, Serverless computing, Next.js, Express.js,**
   
