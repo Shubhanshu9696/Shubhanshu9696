@@ -2,14 +2,21 @@
 <h3 align=“center”>A passionate Full-stack developer from India</h3>
 <img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 <p align=“left”> <img src="https://komarev.com/ghpvc/?username=shubhanshu9696&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanshu9696" /> </p>
-<!-- <p align=“left”> <a href=“https://twitter.com/sahilth51790729” target=“blank”><img src=“https://img.shields.io/twitter/follow/sahilth51790729?logo=twitter&style=for-the-badge” alt=“sahilth51790729" /></a> </p> -->
-<!-- - :seedling: I’m currently working on **Product Lifecycle Management(PLM) ** -->
-- 🔭 I’m currently working on **Product Lifecycle Management(PLM)**
+<p align=“left”> <a href=“https://x.com/shubhanshusst10” target=“blank”><img src=“https://img.shields.io/twitter/follow/shubhanshusst10?logo=twitter&style=for-the-badge” alt=“shubhanshusst10" /></a> </p>
+
+- :seedling: I’m currently working on **Product Lifecycle Management(PLM) **
+<!-- - 🔭 I’m currently working on **Product Lifecycle Management(PLM)** -->
+
 - 🌱 I’m currently learning **AWS, Serverless computing, Next.js, Express.js,**
+  
 - :male-technologist: All of my projects are available at [https://shubh-portfolio-4c9456.netlify.app/](https://shubh-portfolio-4c9456.netlify.app/)
+  
 - :speech_bubble: Ask me about **React.js, Next.js, Functional Programming, AWS, Database, DSA**
+  
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/13KXuznvmshhJWb9fupA0onleoqcKGUYJ](https://drive.google.com/drive/folders/13KXuznvmshhJWb9fupA0onleoqcKGUYJ)
+  
 - :mailbox: How to reach me **shubhanshutiwari04@gmail.com**
+  
 - :zap: Fun fact **I am funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
